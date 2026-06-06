@@ -1,0 +1,74 @@
+[
+  {
+    "title": "What Happens to Learning When AI Does the Thinking?",
+    "angle": "Explores cognitive offloading — when we let AI answer for us, what happens to our own thinking muscles?",
+    "themes": ["AI in education", "cognitive load", "metacognition", "learning science"],
+    "audience": "educators, curious professionals, lifelong learners"
+  },
+  {
+    "title": "The Quiet Bias: How AI Systems Reflect Our Blind Spots",
+    "angle": "Examines how AI bias isn't just a data problem — it's a mirror of human psychology and social systems.",
+    "themes": ["AI bias", "psychology", "social systems", "ethics"],
+    "audience": "general public, professionals using AI tools"
+  },
+  {
+    "title": "Presence in the Age of Algorithms: Reclaiming Attention",
+    "angle": "How algorithmic environments are engineered to fragment attention, and what mindfulness research says about reclaiming it.",
+    "themes": ["attention", "mindfulness", "algorithms", "wellbeing"],
+    "audience": "professionals, parents, anyone feeling overwhelmed by technology"
+  },
+  {
+    "title": "Teaching Machines to Fail Gracefully",
+    "angle": "What psychology knows about resilience and failure — and what AI systems could learn from it.",
+    "themes": ["AI design", "resilience", "failure", "psychology", "human-centred AI"],
+    "audience": "AI practitioners, educators, curious professionals"
+  },
+  {
+    "title": "The Empathy Gap: Why AI Can Simulate But Not Feel",
+    "angle": "A clear-eyed look at what empathy actually is, why it matters, and why AI can mimic but not hold it.",
+    "themes": ["empathy", "AI limitations", "psychology", "human connection"],
+    "audience": "general public, healthcare, educators"
+  },
+  {
+    "title": "Adaptive Learning Systems: Promise Versus Reality",
+    "angle": "What the research actually says about personalised AI learning systems — where they work and where they fall short.",
+    "themes": ["EdTech", "adaptive learning", "AI in education", "evidence-based practice"],
+    "audience": "educators, school leaders, parents"
+  },
+  {
+    "title": "Decision Fatigue in the Algorithmic Age",
+    "angle": "We're making more micro-decisions than ever. Explores the psychology of decision fatigue and how AI can help — or make it worse.",
+    "themes": ["decision fatigue", "cognitive science", "AI tools", "productivity"],
+    "audience": "professionals, managers, knowledge workers"
+  },
+  {
+    "title": "When AI Becomes a Therapist: Boundaries We Need to Draw",
+    "angle": "Examining the rise of AI mental health tools through a psychologist's lens — benefits, risks, and ethical lines.",
+    "themes": ["AI in mental health", "ethics", "therapy", "psychology"],
+    "audience": "mental health professionals, general public, policymakers"
+  },
+  {
+    "title": "Creativity Isn't Computation: What AI Art Teaches Us About Ourselves",
+    "angle": "Using AI-generated art as a lens to explore what human creativity actually is — and why it still matters.",
+    "themes": ["creativity", "AI art", "identity", "psychology", "meaning-making"],
+    "audience": "creatives, general public, educators"
+  },
+  {
+    "title": "The Habit Machine: Using AI to Build Better Routines",
+    "angle": "Behaviour change science meets AI tools — a practical look at what actually works for building habits with technology.",
+    "themes": ["habits", "behaviour change", "AI tools", "psychology", "productivity"],
+    "audience": "professionals, students, general public"
+  },
+  {
+    "title": "Trust in the Black Box: Why Explainable AI Matters",
+    "angle": "Explores the psychology of trust and why 'just trust the algorithm' is a fundamentally human problem.",
+    "themes": ["explainable AI", "trust", "psychology", "AI ethics"],
+    "audience": "professionals, general public, policymakers"
+  },
+  {
+    "title": "Raising AI-Literate Kids: A Framework for Parents and Teachers",
+    "angle": "Practical, grounded guide for helping children develop critical thinking about AI without fear or blind trust.",
+    "themes": ["AI literacy", "education", "parenting", "critical thinking"],
+    "audience": "parents, educators, school leaders"
+  }
+]
